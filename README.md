@@ -18,9 +18,7 @@ It is **not a medical tool** and should not be used for real-world diagnosis or 
 - It contains urine analysis results with features such as pH, specific gravity, red blood cells, white blood cells, etc.  
 - **Target variable:** Presence or absence of kidney stones.  
 
-```markdown
-![](images/1.png)  
-```
+![](images/1.png)
 ---
 
 ## 🧹 Data Preprocessing
@@ -85,13 +83,11 @@ Models were evaluated using:
 
 📷 Example metrics visualization:
 
-```markdown
 ![](images/3-1.png)  
 ![](images/3-2.png)  
 ![](images/3-3.png)  
 ![](images/3-4.png)  
-![](images/3-5.png)  
-```
+![](images/3-5.png)
 
 ---
 
@@ -102,15 +98,13 @@ Models were evaluated using:
 
 📷 Example placeholders:
 
-```markdown
 ![](images/4-1.png)  
 ![](images/4-2.png)  
 ![](images/4-3.png)  
 ![](images/4-4.png)  
 ![](images/4-5.png)  
 ![](images/4-6.png)  
-![](images/4-7.png)  
-```
+![](images/4-7.png)
 
 ---
 
@@ -123,9 +117,7 @@ A Streamlit app was built for interactive prediction:
 
 📷 Placeholder for screenshot:
 
-```markdown
-![](images/streamlit_app.png)  
-```
+![](images/streamlit_app.png)
 
 ---
 
