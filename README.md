@@ -9,7 +9,7 @@ It is **not a medical tool** and should not be used for real-world diagnosis or 
 ---
 
 ## 🚀 Try the App
-[Try it on Streamlit Cloud](<your-link-here>)
+[Try it on Streamlit Cloud](https://healthcarediabetesprediction-ch9kcdd9iouyetqjs9d3gv.streamlit.app/)
 
 ---
 
