@@ -1,4 +1,4 @@
-# 🩺 Kidney Stone Prediction
+# 🩺 Kidney Stone Prediction (Educational Project)
 
 This project demonstrates how to build a **machine learning pipeline** for predicting kidney stones based on urine analysis.  
 It covers data preprocessing, feature engineering, exploratory data analysis (EDA), model training, evaluation, visualization, and deployment with Streamlit.  
@@ -19,6 +19,7 @@ It is **not a medical tool** and should not be used for real-world diagnosis or 
 - **Target variable:** Presence or absence of kidney stones.  
 
 ![](images/1.png)
+
 ---
 
 ## 🧹 Data Preprocessing
@@ -38,14 +39,13 @@ Steps included:
 * Count plots for categorical features
 * Correlation heatmap
 
-📷 Example plots (replace with your paths):
+📷 Example plots:
 
 ![](images/2-1.png)  
 ![](images/2-2.png)  
 ![](images/2-3.png)  
 ![](images/2-4.png)  
 ![](images/2-5.png)  
-
 
 ---
 
@@ -87,7 +87,7 @@ Models were evaluated using:
 ![](images/3-2.png)  
 ![](images/3-3.png)  
 ![](images/3-4.png)  
-![](images/3-5.png)
+![](images/3-5.png)  
 
 ---
 
@@ -104,7 +104,7 @@ Models were evaluated using:
 ![](images/4-4.png)  
 ![](images/4-5.png)  
 ![](images/4-6.png)  
-![](images/4-7.png)
+![](images/4-7.png)  
 
 ---
 
@@ -117,7 +117,15 @@ A Streamlit app was built for interactive prediction:
 
 📷 Placeholder for screenshot:
 
-![](images/5.png)
+![](images/5.png)  
+
+---
+
+## 📊 Results & Insights
+
+* Gradient Boosting and Random Forest achieved the highest performance.
+* Logistic Regression performed well as a baseline.
+* Some features (e.g., **pH and RBC count**) showed strong influence on predictions.
 
 ---
 
