@@ -42,13 +42,12 @@ Steps included:
 
 📷 Example plots (replace with your paths):
 
-```markdown
 ![](images/2-1.png)  
 ![](images/2-2.png)  
 ![](images/2-3.png)  
 ![](images/2-4.png)  
 ![](images/2-5.png)  
-```
+
 
 ---
 
