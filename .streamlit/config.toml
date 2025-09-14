@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#4DB6AC"              # Teal accent (calm but vibrant)
+backgroundColor="#121212"           # Deep charcoal black
+secondaryBackgroundColor="#1E1E1E"  # Dark gray for panels and widgets
+textColor="#EAEAEA"                 # Soft off-white for readability
+font="sans serif"                   # Clean, modern look
