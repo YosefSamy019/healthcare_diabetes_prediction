@@ -1,4 +1,4 @@
-# 🩺 Kidney Stone Prediction (Educational Project)
+# 🩺 Kidney Stone Prediction
 
 This project demonstrates how to build a **machine learning pipeline** for predicting kidney stones based on urine analysis.  
 It covers data preprocessing, feature engineering, exploratory data analysis (EDA), model training, evaluation, visualization, and deployment with Streamlit.  
