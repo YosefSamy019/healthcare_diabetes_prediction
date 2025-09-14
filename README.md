@@ -117,7 +117,7 @@ A Streamlit app was built for interactive prediction:
 
 📷 Placeholder for screenshot:
 
-![](images/streamlit_app.png)
+![](images/5.png)
 
 ---
 
